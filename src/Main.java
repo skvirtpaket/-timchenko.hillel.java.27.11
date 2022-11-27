@@ -6,8 +6,8 @@ public class Main {
 //git init
 //git add .
 //git commit -m ""
-//
-//
+//git branch - створити вітку
+//git checkout - перейти на вітку
 //
 //
 //
