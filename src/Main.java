@@ -8,6 +8,6 @@ public class Main {
 //git commit -m ""
 //git branch - створити вітку
 //git checkout - перейти на вітку
-//
+//git poll
 //
 //
